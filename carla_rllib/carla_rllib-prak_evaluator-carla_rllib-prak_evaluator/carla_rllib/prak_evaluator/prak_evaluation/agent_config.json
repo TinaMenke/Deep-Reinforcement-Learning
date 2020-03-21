@@ -1,0 +1,19 @@
+{
+    "camera": {
+        "type": "semantic_segmentation",
+        "x": 1.5, 
+        "y": 0.0,
+        "z": 1.6,
+        "pitch": -30.0,
+        "roll": 0.0,
+        "yaw": 0.0,
+        "width": 1024,
+        "height": 720,
+        "fov": 120
+    },
+    "policy_checkpoint": "/fzi/ids/hemmer/no_backup/training/pre1_re7_cnn_1e5/pre1_re7_cnn_1e5.pkl",
+    "debug": {
+        "enabled": false,
+        "input_camera": false,
+        "resize": [756, 756]}
+}
