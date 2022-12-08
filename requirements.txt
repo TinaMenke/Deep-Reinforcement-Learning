@@ -2,7 +2,7 @@ absl-py==0.7.1
 astor==0.8.0
 atari-py==0.2.6
 -e git+https://github.com/openai/baselines.git@229a772b81155695a2692066b1ef3e7b77f5993a#egg=baselines
-certifi==2019.9.11
+certifi==2022.12.7
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.2.1
